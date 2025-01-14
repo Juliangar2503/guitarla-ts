@@ -13,7 +13,8 @@ En este proyecto de aprendizaje, he tenido la oportunidad de profundizar en vari
    Uno de los puntos más importantes ha sido el aprendizaje de los **hooks** en React. He utilizado los hooks más comunes, como:
    - **`useState`**: Para gestionar el estado dentro de los componentes funcionales.
    - **`useEffect`**: Para manejar los efectos secundarios, como la ejecución de acciones al montar o actualizar los componentes.
-   - **`useContext`**: Para compartir datos entre componentes sin tener que pasar props manualmente.
+   - **`useMemo`**: Para memorizar valores calculados y evitar recalcularlos en cada renderización, mejorando el rendimiento de la aplicación al evitar cálculos repetidos.
+
    
    Estos hooks me han permitido escribir componentes más limpios y organizados, sin necesidad de clases, lo cual hace el código más modular y fácil de mantener.
 
