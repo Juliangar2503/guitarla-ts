@@ -1,6 +1,6 @@
 # Proyecto de Aprendizaje con React
 
-Este es un proyecto de aprendizaje siguiendo el curso de React de Juan Pablo De la torre Valdez donde he explorado y practicado los fundamentos de React. Durante el desarrollo, he aprendido a utilizar los principales hooks de React, como `useState`, `useEffect`, `useMemo`, entre otros. Además, he creado un custom hook para mejorar la reutilización de código en el proyecto.
+Este es un proyecto de aprendizaje donde he explorado y practicado los fundamentos de React. Durante el desarrollo, he aprendido a utilizar los principales hooks de React, como `useState`, `useEffect`, `useMemo`, entre otros. Además, he creado un custom hook para mejorar la reutilización de código en el proyecto.
 
 ## Lo que he aprendido
 
