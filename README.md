@@ -32,6 +32,6 @@ En este proyecto de aprendizaje, he tenido la oportunidad de profundizar en vari
 
 ## Despliegue
 
-El proyecto está desplegado en Netlify y se puede acceder en el siguiente enlace: [URL]((https://jocular-palmier-0cfbb1.netlify.app))
+El proyecto está desplegado en Netlify y se puede acceder en el siguiente enlace: [https://jocular-palmier-0cfbb1.netlify.app]
 
 
